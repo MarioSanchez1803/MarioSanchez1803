@@ -1,7 +1,7 @@
 
 # Hi there, I'm Mario Jose Sanchez Rodriguez  👋
 
-Desarrollador en formacion enfocado en el desarrollo web y aplicaciones. Apasionado por aprender nuevas tecnologias y crear soluciones funcionales.
+Developer in training, focused on web and application development. Passionate about learning new technologies and creating functional solutions.
 
 ---
 
