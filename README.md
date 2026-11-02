@@ -19,7 +19,7 @@ Developer in training, focused on web and application development. Passionate ab
 ### 📊 Mis Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://https://github-stats-extended.vercel.app/api?username=IsaiasDGG&show_icons=true&theme=tokyonight&hide_border=true alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
