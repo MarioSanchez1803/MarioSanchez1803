@@ -23,7 +23,9 @@ Developer in training, focused on web and application development. Passionate ab
   <img src="https://github-readme-stats.vercel.app/api?username=MarioSanchez1803&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSanchez1803&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioSanchez1803&theme=tokyo-night&hide_border=true" alt="Gráfica de Actividad de GitHub" />
+</div>
 <br />
 
 <!-- Gráfica alternativa de actividad (100% funcional y sin caídas de servidor) -->
