@@ -1,52 +1,40 @@
 
-# Hi there, I'm Mario Jose Sanchez Rodriguez  👋
-
-Developer in training, focused on web and application development. Passionate about learning new technologies and creating functional solutions.
-
----
-
-### 🚀 Tecnologias y Herramientas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 Mis Estadisticas de GitHub
-
-<!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioSanchez1803&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSanchez1803&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioSanchez1803&theme=tokyo-night&hide_border=true" alt="Gráfica de Actividad de GitHub" />
-</div>
-<br />
+  <h1>👋 ¡Hola! Soy Mario Sánchez</h1>
+  <p><strong>Estudiante de Desarrollo de Aplicaciones Web (DAW) & Apasionado de la Tecnología</strong></p>
 
-<!-- Gráfica alternativa de actividad (100% funcional y sin caídas de servidor) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioSanchez1803&theme=tokyo-night&hide_border=true" alt="Gráfica de Actividad de GitHub" />
+  <a href="https://github.com/MarioSanchez1803">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br />
 
-<!-- Gráfica alternativa de actividad (100% funcional y sin caídas de servidor) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioSanchez1803&theme=tokyo-night&hide_border=true" alt="Gráfica de Actividad de GitHub" />
-</div>
+## 🚀 Sobre mí
 
-<br />
+- 🎓 Graduado en **Finanzas y Contabilidad**, reconvirtiendo mi perfil hacia el **Desarrollo Web**.
+- 💻 Actualmente cursando el grado superior de **Desarrollo de Aplicaciones Web (DAW)**.
+- 🛠️ Trabajando activamente con **Java**, **SQL**, **HTML/CSS** y **Git**.
+- 🐧 Apasionado del aprendizaje práctico, la optimización de sistemas y el trabajo en equipo.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioSanchez1803&theme=tokyonight&hide_border=true" alt="Racha de commits" />
-</div>
 ---
 
-### 📌 Repositorios Destacados
-- ☕ **[TAREAS Java](./)**: Colección de ejercicios y prácticas en Java.
-- 🌐 **[TAREAS HTML](./)**: Proyectos web iniciales y maquetación.
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioSanchez1803&theme=tokyo-night&hide_border=true" alt="Gráfica de Actividad de GitHub" width="100%" />
+</div>
