@@ -18,11 +18,17 @@ Developer in training, focused on web and application development. Passionate ab
 
 ### 📊 Mis Estadisticas de GitHub
 
-<p align="center">
-  <img src="https://https://github-stats-extended.vercel.app/api?username=IsaiasDGG&show_icons=true&theme=tokyonight&hide_border=true alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioSanchez1803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSanchez1803&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="175" />
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioSanchez1803&theme=tokyonight&hide_border=true" alt="Racha de commits" />
+</div>
 ---
 
 ### 📌 Repositorios Destacados
