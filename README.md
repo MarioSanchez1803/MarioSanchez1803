@@ -1,48 +1,66 @@
-<h1 align="center">¡Hola! Soy Mario 👋</h1>
+<div align="center">
 
-<p align="center">
-  Estudiante de <b>Desarrollo de Aplicaciones Web (DAW)</b> 💻<br>
-  Aprendiendo a crear aplicaciones web de principio a fin
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Mario%20S%C3%A1nchez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAW%20%C2%B7%20Desarrollo%20Web&descAlignY=60&descSize=20" alt="Cabecera" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+DAW;Desarrollo+web+full+stack;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E100FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Construyendo+mi+futuro+l%C3%ADnea+a+l%C3%ADnea;%F0%9F%92%BB+Full+Stack+en+formaci%C3%B3n;%E2%9A%A1+Aprender%2C+romper%2C+arreglar%2C+repetir" alt="Typing SVG" />
 
----
+<br><br>
 
-## 🙋‍♂️ Sobre mí
+<a href="https://github.com/MarioSanchez1803?tab=followers"><img src="https://img.shields.io/github/followers/MarioSanchez1803?style=for-the-badge&logo=github&logoColor=white&color=7F00FF&labelColor=1a1a2e" alt="Seguidores" /></a>
+<a href="https://github.com/MarioSanchez1803?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-Ver_todos-E100FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" alt="Repositorios" /></a>
+<a href="https://github.com/MarioSanchez1803?tab=stars"><img src="https://img.shields.io/badge/Favoritos-Ver-00D4FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e" alt="Estrellas" /></a>
 
-- 🎓 Cursando el Grado Superior de Desarrollo de Aplicaciones Web
-- 🌱 Aprendiendo desarrollo frontend, backend y bases de datos
-- 💡 Me gusta convertir ideas en proyectos que funcionan
-- 🤝 Abierto a colaborar y aprender de otros desarrolladores
-
-## 🛠️ Tecnologías
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioSanchez1803&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSanchez1803&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioSanchez1803&theme=radical" alt="Racha de contribuciones" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ⭐ ¡Gracias por pasarte por mi perfil!
-</p>
+## 👾 Sobre mí
+
+```diff
++ Estudiante del Grado Superior de Desarrollo de Aplicaciones Web (DAW)
++ Me encanta convertir ideas en aplicaciones que funcionan
++ Aprendiendo frontend, backend y bases de datos cada día
+! Siempre abierto a colaborar y aprender de otros developers
+```
+
+## 🧰 Mi stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,mysql,git,github,vscode,figma&perline=11" alt="Mis tecnologías" />
+  </a>
+</div>
+
+## 📊 Mis estadísticas
+
+<div align="center">
+  <a href="https://github.com/MarioSanchez1803">
+    <img src="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalles del perfil" width="48%" />
+  </a>
+  <a href="https://github.com/MarioSanchez1803?tab=repositories">
+    <img src="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estadísticas" width="48%" />
+  </a>
+</div>
+
+## 🔥 Lenguajes más usados
+
+<div align="center">
+  <a href="https://github.com/MarioSanchez1803?tab=repositories">
+    <img src="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Lenguajes por repositorio" width="48%" />
+  </a>
+  <a href="https://github.com/MarioSanchez1803?tab=repositories">
+    <img src="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes por commits" width="48%" />
+  </a>
+</div>
+
+## 🐍 Mis contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/output/github-snake.svg" />
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" alt="Pie" width="100%" />
