@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,mysql,git,github,vscode,figma&perline=11" alt="Mis tecnologías" />
+    <img src="https://skillicons.dev/icons?i=html,java,git,github,vscode,figma&perline=11" alt="Mis tecnologías" />
   </a>
 </div>
 
