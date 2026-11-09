@@ -53,14 +53,4 @@
   </a>
 </div>
 
-## 🐍 Mis contribuciones
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/output/github-snake.svg" />
-    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/MarioSanchez1803/MarioSanchez1803/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" alt="Pie" width="100%" />
